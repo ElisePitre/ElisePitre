@@ -1,10 +1,11 @@
 # 👋 Hi, I’m Elise Pitre
 
-I’m a **Software Engineering student at the University of Guelph** (B.Comp. Honours Co-op, Minor in Sustainable Business) with a strong interest in building clean, maintainable systems and exploring the human side of computing — especially how **cognitive biases shape technology**.
 
-Currently, I’m a **CI/CD Pipeline Developer Intern at SAP Canada**, where I work on **optimizing Jenkins-based pipelines supporting ~50 developers**, refactoring with **unittest** and **OOP principles**, and improving reliability across teams using **Bash, Python, and Groovy**.
+I’m a **Software Engineering student at the University of Guelph** (B.Comp. Honours Co-op, Minor in Sustainable Business) with a strong curiosity to learn and explore all sides of software development. I’m still early in my career journey and am **actively seeking new experiences** to build my skills, expand my knowledge, and discover new interests along the way.
 
-Beyond automation, I love **problem-solving and creating thoughtful user experiences** — whether through backend logic, UI design, or systems integration.
+Currently, I’m a **CI/CD Pipeline Developer Intern at SAP Canada**, where I help improve **Jenkins-based pipelines supporting ~50 developers**, refactoring with **unittest** and **OOP principles**, and enhancing reliability across teams using **Bash, Python, and Groovy**.
+
+Beyond coding, I enjoy exploring the human side of computing — especially how **cognitive biases shape technology**.
 
 ---
 
