@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Elise! 👋
 
-<!--
-**ElisePitre/ElisePitre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about technology and software development.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on building exciting projects and contributing to open source
+- 🌱 I'm currently learning new technologies and best practices in software development
+- 👯 I'm looking to collaborate on interesting open source projects
+- 💬 Ask me about software development, coding, and tech
+- 📫 How to reach me: Feel free to connect with me here on GitHub
+- ⚡ Fun fact: I love solving problems through code!
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out.
