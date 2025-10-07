@@ -26,5 +26,4 @@ Beyond automation, I love **problem-solving and creating thoughtful user experie
 ## 📫 Connect With Me
 - 🌐 [Portfolio](https://elise-pitre.netlify.app)  
 - 💼 [LinkedIn](https://linkedin.com/in/elise-pitre)  
-- 💻 [GitHub](https://github.com/ElisePitre)  
 - ✉️ [Email](mailto:pitre@uoguelph.ca)
