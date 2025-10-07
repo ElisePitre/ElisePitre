@@ -16,18 +16,11 @@ Beyond automation, I love **problem-solving and creating thoughtful user experie
 ---
 
 ## 🧠 Interests
-- Software reliability & maintainability  
+- Software reliability & optimization  
 - Cognitive bias in computing and human-centered design  
-- Sustainable and ethical software development  
+- Sustainable and ethical software development
+- Algorithm design and implementaion
 
----
-
-## 🌱 Currently
-- Expanding my experience in **DevOps and automation**  
-- Building side projects in **Python and React**  
-- Exploring ways to connect **human psychology and technology**  
-
----
 
 ## 📫 Connect With Me
 - 🌐 [Portfolio](https://elise-pitre.netlify.app)  
