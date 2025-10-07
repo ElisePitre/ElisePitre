@@ -21,6 +21,7 @@ Beyond automation, I love **problem-solving and creating thoughtful user experie
 - Sustainable and ethical software development
 - Algorithm design and implementaion
 
+---
 
 ## 📫 Connect With Me
 - 🌐 [Portfolio](https://elise-pitre.netlify.app)  
