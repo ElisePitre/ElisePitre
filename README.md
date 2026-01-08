@@ -3,7 +3,7 @@
 
 I’m a **Software Engineering student at the University of Guelph** (B.Comp. Honours Co-op, Minor in Sustainable Business) with a strong curiosity to learn and explore all sides of software development. I’m still early in my career journey and am **actively seeking new experiences** to build my skills, expand my knowledge, and discover new interests along the way.
 
-Currently, I’m a **CI/CD Pipeline Developer Intern at SAP Canada**, where I help improve **Jenkins-based pipelines supporting ~50 developers**, refactoring with **unittest** and **OOP principles**, and enhancing reliability across teams using **Bash, Python, and Groovy**.
+I recently wrapped up an 8 month co-op as a **CI/CD Pipeline Developer Intern at SAP Canada**, where I helped improve **Jenkins-based pipelines supporting ~50 developers**, refactoring with **unittest** and **OOP principles**, and enhancing reliability across teams using **Bash, Python, and Groovy**.
 
 Beyond coding, I enjoy exploring the human side of computing — especially how **cognitive biases shape technology**.
 
