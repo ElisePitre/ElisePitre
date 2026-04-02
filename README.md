@@ -10,8 +10,8 @@ Beyond coding, I enjoy exploring the human side of computing — especially how 
 ---
 
 ## 💻 Technical Focus
-- **Languages:** Python, Java, C, Bash, Groovy, JavaScript  
-- **Tools:** Git, Gerrit, Jenkins, MySQL, Trello  
+- **Languages:** Python, Java, C, Dart, Bash, Groovy, JavaScript, C++  
+- **Tools:** Git, Gerrit, Jenkins, MySQL, Flutter, Trello  
 - **Practices:** Agile, CI/CD, Object-Oriented Design, Debugging  
 
 ---
